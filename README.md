@@ -1,4 +1,4 @@
-# Building-Modern-Python-Applications-on-AWS-Labs<br>
+# Building-Modern-Python-Applications-on-AWS-Labs-Excercises<br>
 <br>
 <br>LAB 1 - Get the front end up, by uploading a simple front-end where a user can search for an item.
 <br>LAB 2 - Get the plumbing in place, by creating three placeholder API Mocks. You will have the website hit up 3 distinct API endpoints that just pipe back the same dummy data for reviews and ratings and create report regardless of what product ids your front-end sends.
