@@ -12,7 +12,7 @@
             "Condition": {
                 "IpAddress": {
                     "aws:SourceIp": [
-                        "117.254.37.239/32"
+                        "xxx.xx.xx.xx/32"
                     ]
                 }
             }
