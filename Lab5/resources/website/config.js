@@ -1,0 +1,2 @@
+var G_API_GW_URL_STR = "https://3u8mbnfb0a.execute-api.us-west-2.amazonaws.com/test";
+var G_COGNITO_HOSTED_URL_STR = "https://fancy7273-domain.auth.us-west-2.amazoncognito.com/login?client_id=19kfoeu8u29rqslnb7c3o7fqfg&response_type=token&scope=openid+profile&redirect_uri=https://c11284a125440l746374t1w592540852186-s3bucket-kfd6593ohoqw.s3-us-west-2.amazonaws.com/callback.html";
